@@ -31,3 +31,4 @@ venv_tf210/
 
 # Project data
 model/data/
+config.bat
